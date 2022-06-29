@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.moleContainer {
+  display: inline-block;
+}
+
+img {
+  width: 75%;
+}
+
+.score {
+  display: inline-block;
+  padding: 5px;
+  font-size: xx-large;
+  border: 1px solid black;
+  margin: 0;
+}
